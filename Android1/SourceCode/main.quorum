@@ -1,0 +1,43 @@
+
+
+//use Libraries.Game.Game
+//use Libraries.Game.Graphics.Color
+//use Libraries.Game.Graphics.Drawable
+//use Libraries.Sound.Audio
+//use Libraries.System.File
+//use Libraries.Interface.Controls.Button
+//
+////       file:SetPath("Habu.ogg")
+////       audio:Load(file)
+////       audio:PlayUntilDone()
+//
+//
+//class Main is Game
+//   Color color
+//   Drawable drawable
+//   Audio audio
+//   File file
+//
+//
+//   
+//   action Main
+//       StartGame()
+//   end
+//   action CreateGame
+////       drawable:LoadFilledRectangle(100, 100, color:Teal())
+////       drawable:SetPosition(100, 100)
+////       Add(drawable)
+//       Button button       
+//       button1:SetName("Play Me Big")
+//       button1:SetPosition(300,300)
+//       SetFocus(button)
+//       Add(button)
+//
+//   end
+//
+//  // action Update(number seconds)
+//      // drawable:Rotate(30 * seconds)
+//
+//       
+//   end
+//end
